@@ -6,7 +6,7 @@
 
 **Introduction**
 
-Bicycle Sharing Systems are a means of renting bicycles where the process of obtaining membership, rental,and bike return is automated via a network of bike-stations located throughout a city. The users of bike sharing systems can pick up bicycles from a bike-station in one location and return them to another in possibly any location of the city.Bike Sharing System ensures that pollution is reduced with use of bicycles there is reduction in use of motor vehicles which leads to reduction in emission of pollutants in the air.
+Bicycle Sharing Systems are means of renting bicycles where the process of obtaining membership, rental,and bike return is automated via a network of bike-stations located throughout a city. The users of bike sharing systems can pick up bicycles from a bike-station in one location and return them to another in possibly any location of the city.Bike Sharing System ensures that pollution is reduced with use of bicycles there is reduction in use of motor vehicles which leads to reduction in emission of pollutants in the air.
 
 **Problem-Statement**
 
