@@ -10,7 +10,7 @@ Bicycle Sharing Systems are means of renting bicycles where the process of obtai
 
 **Problem-Statement**
 
-In a bicycle sharing systems it is very important for the administrators to know how many cycles will be needed in each bicycle station, knowing this count, it enables them to arrange proper number of cycles at the stations and decide whether a particular station needs to have extra number of bicycle at that stands. Utilizing a seperate weather data and not the usage pattern here, its needed to forecast bike rental demand in the Capital Bikeshare program in Washington, D.C.
+In a bicycle sharing systems it is very important for the administrators to know how many cycles will be needed in each bicycle station, knowing this count, it enables them to arrange proper number of cycles at the stations and decide whether a particular station needs to have extra number of bicycle at that stands. Utilizing a seperate weather,date and time data and not the usage pattern here, its needed to forecast bike rental demand in the Capital Bikeshare program in Washington, D.C.
 
 **Data-Source**
 
