@@ -2,7 +2,7 @@
 
 .ipynb file link on top.
 
-## Title- Predicting Demand for a Bicycle Sharing Company.
+## Title- Predicting Demand for a Bicycle Sharing Company. (CRISP-DM)
 
 **Introduction**
 
