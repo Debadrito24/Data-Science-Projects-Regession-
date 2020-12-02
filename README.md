@@ -1,10 +1,6 @@
-# Data-Science-Project-Regression
+## Title- Predicting Demand for a Bicycle Sharing Company.  | CRISP-DM |
 
 .ipynb file link on top.
-
-## Title- Predicting Demand for a Bicycle Sharing Company.
-
-#  | CRISP-DM |
 
 
 # <u>Introduction</u>:
