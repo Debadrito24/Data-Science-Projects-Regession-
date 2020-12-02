@@ -1,7 +1,7 @@
-# Predicting Demand for a Bicycle Sharing Company.  | CRISP-DM |
+# Predicting Demand for a Bicycle Sharing Company. 
+## | CRISP-DM |
 
 .ipynb file link on top.
-
 
 ## <u>Introduction</u>:
     
